@@ -2,7 +2,7 @@
 
 \* Segundo o [site oficial](https://events.flutter.dev/engage/learn/beginner).
 
-\*\* [Se você ainda não conhece o canal AnthonyDev, clique aqui e se inscreva, lá você encontra vários tutoriais de Flutter](https://events.flutter.dev/engage/learn/beginner).
+\*\* [Se você ainda não conhece o canal AnthonyDev, clique aqui e se inscreva, lá você encontra vários tutoriais de Flutter](https://www.youtube.com/channel/UCRfQziviZPt-YPG-Z3Bgx3g).
 
 ## 0 - Pré-requisitos
 
