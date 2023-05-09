@@ -70,7 +70,7 @@
 
 ## 5.1 - Outros Roadmaps
 
-- [Flutterando (GDE)](https://github.com/Flutterando/roadmap)
+- [Flutterando](https://github.com/Flutterando/roadmap)
 - [Gabul DEV](https://www.youtube.com/watch?v=XAf6vL9IgKg)
 - [Tadas Petra (GDE)](https://www.youtube.com/watch?v=95MRJPu5tAE)
 - [Pawan Kumar (GDE)](https://www.youtube.com/watch?v=7660DZ_HJqM)
